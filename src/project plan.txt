@@ -1,0 +1,35 @@
+Core
+	1) Application class and main game circle
+	2) Stage class with derived stages
+	3) Renderer - Back buffer
+UI
+Graphics
+Logic
+AI
+Stages
+Sounds
+
+Left = 0 0 176 480
+LeftTop = 0 0 176 155
+LeftTopTop = 0 0 176 25
+LeftTopTopButton = 25 3 124 17
+LeftTopMid = 0 25 176 130
+LeftTopMidLeft = 0 0 23 130
+LeftTopMidRight = 153 0 130 23
+LeftBottom = 0 155 176 325
+RightTop = 0 0 464 15
+RightBottom = 0 465 464 15
+RightRight = 448 0 16 480
+
+5*x+6y = 370
+11*x+12y = 624
+10x+12y=740
+
+leftBottomTop = 6 166 164 167
+
+9*19+9
+11*19+8
+12*19+8
+15*19+14
+>17*19+11
+
